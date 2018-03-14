@@ -1,0 +1,10 @@
+1. 본인의 나이는?
+2. 현재 나는 질병을 가지고 있다.
+3. 현재 질병으로 인해 복용하고 있는 약이 있다.
+4. 본인의 성별은?
+5. 음주 시간을 체크해 주세요.
+6. 흡연 시간을 체크해 주세요
+7. 커피를 마신 시간을 체크해 주세요.
+8. 현재 나는 스트레스를 받고 있다.
+9. 현재 공복상태이다.
+http://blog.naver.com/PostView.nhn?blogId=haejin5446&logNo=220681012367&categoryNo=18&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=search
