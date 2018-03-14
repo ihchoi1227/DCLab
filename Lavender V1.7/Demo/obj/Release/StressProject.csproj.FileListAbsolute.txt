@@ -231,3 +231,9 @@ C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.6\De
 C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.6\Demo\obj\Release\Demo.Sensor_Value.resources
 C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.6\Demo\obj\Release\Demo.Sensor.resources
 C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.6\Demo\obj\Release\StressProject.csproj.GenerateResource.Cache
+C:\Users\ihchoi\Documents\GitHub\DCLab\Lavender V1.7\Demo\bin\Release\Demo.exe.config
+C:\Users\ihchoi\Documents\GitHub\DCLab\Lavender V1.7\Demo\obj\Release\Interop.WMPLib.dll
+C:\Users\ihchoi\Documents\GitHub\DCLab\Lavender V1.7\Demo\obj\Release\AxInterop.WMPLib.dll
+C:\Users\ihchoi\Documents\GitHub\DCLab\Lavender V1.7\Demo\obj\Release\StressProject.csproj.ResolveComReference.cache
+C:\Users\ihchoi\Documents\GitHub\DCLab\Lavender V1.7\Demo\obj\Release\Demo.exe
+C:\Users\ihchoi\Documents\GitHub\DCLab\Lavender V1.7\Demo\obj\Release\Demo.pdb
