@@ -1,0 +1,239 @@
+C:\Users\dclab\Downloads\감동 프로젝트 V0.1\Demo\bin\Release\Demo.exe.config
+C:\Users\dclab\Downloads\감동 프로젝트 V0.1\Demo\obj\Release\Interop.WMPLib.dll
+C:\Users\dclab\Downloads\감동 프로젝트 V0.1\Demo\obj\Release\AxInterop.WMPLib.dll
+C:\Users\dclab\Downloads\감동 프로젝트 V0.1\Demo\obj\Release\StressProject.csproj.ResolveComReference.cache
+C:\Users\dclab\Downloads\감동 프로젝트 V0.1\Demo\bin\Release\Demo.exe
+C:\Users\dclab\Downloads\감동 프로젝트 V0.1\Demo\bin\Release\Demo.pdb
+C:\Users\dclab\Downloads\감동 프로젝트 V0.1\Demo\bin\Release\Interop.WMPLib.dll
+C:\Users\dclab\Downloads\감동 프로젝트 V0.1\Demo\bin\Release\AxInterop.WMPLib.dll
+C:\Users\dclab\Downloads\감동 프로젝트 V0.1\Demo\obj\Release\Demo.ConsentForm.resources
+C:\Users\dclab\Downloads\감동 프로젝트 V0.1\Demo\obj\Release\Demo.main.resources
+C:\Users\dclab\Downloads\감동 프로젝트 V0.1\Demo\obj\Release\Demo.Personal_Informaion.resources
+C:\Users\dclab\Downloads\감동 프로젝트 V0.1\Demo\obj\Release\Demo.Properties.Resources.resources
+C:\Users\dclab\Downloads\감동 프로젝트 V0.1\Demo\obj\Release\Demo.Sensor_Value.resources
+C:\Users\dclab\Downloads\감동 프로젝트 V0.1\Demo\obj\Release\Demo.Sensor.resources
+C:\Users\dclab\Downloads\감동 프로젝트 V0.1\Demo\obj\Release\StressProject.csproj.GenerateResource.Cache
+C:\Users\dclab\Downloads\감동 프로젝트 V0.1\Demo\obj\Release\Demo.exe
+C:\Users\dclab\Downloads\감동 프로젝트 V0.1\Demo\obj\Release\Demo.pdb
+C:\Users\DCLAB\Desktop\감동 프로젝트 V0.4\Demo\bin\Release\Demo.exe.config
+C:\Users\DCLAB\Desktop\감동 프로젝트 V0.4\Demo\bin\Release\Demo.exe
+C:\Users\DCLAB\Desktop\감동 프로젝트 V0.4\Demo\bin\Release\Demo.pdb
+C:\Users\DCLAB\Desktop\감동 프로젝트 V0.4\Demo\bin\Release\Interop.WMPLib.dll
+C:\Users\DCLAB\Desktop\감동 프로젝트 V0.4\Demo\bin\Release\AxInterop.WMPLib.dll
+C:\Users\DCLAB\Desktop\감동 프로젝트 V0.4\Demo\obj\Release\Interop.WMPLib.dll
+C:\Users\DCLAB\Desktop\감동 프로젝트 V0.4\Demo\obj\Release\AxInterop.WMPLib.dll
+C:\Users\DCLAB\Desktop\감동 프로젝트 V0.4\Demo\obj\Release\StressProject.csproj.ResolveComReference.cache
+C:\Users\DCLAB\Desktop\감동 프로젝트 V0.4\Demo\obj\Release\Demo.ConsentForm.resources
+C:\Users\DCLAB\Desktop\감동 프로젝트 V0.4\Demo\obj\Release\Demo.main.resources
+C:\Users\DCLAB\Desktop\감동 프로젝트 V0.4\Demo\obj\Release\Demo.Personal_Informaion.resources
+C:\Users\DCLAB\Desktop\감동 프로젝트 V0.4\Demo\obj\Release\Demo.Properties.Resources.resources
+C:\Users\DCLAB\Desktop\감동 프로젝트 V0.4\Demo\obj\Release\Demo.Sensor_Value.resources
+C:\Users\DCLAB\Desktop\감동 프로젝트 V0.4\Demo\obj\Release\Demo.Sensor.resources
+C:\Users\DCLAB\Desktop\감동 프로젝트 V0.4\Demo\obj\Release\StressProject.csproj.GenerateResource.Cache
+C:\Users\DCLAB\Desktop\감동 프로젝트 V0.4\Demo\obj\Release\Demo.exe
+C:\Users\DCLAB\Desktop\감동 프로젝트 V0.4\Demo\obj\Release\Demo.pdb
+C:\Users\DCLAB\Desktop\감동 프로젝트 V0.4\Demo\obj\Release\StressProject.csprojResolveAssemblyReference.cache
+C:\Users\dclab\Desktop\V0.6\감동 프로젝트 V0.6\Demo\bin\Release\Demo.exe.config
+C:\Users\dclab\Desktop\V0.6\감동 프로젝트 V0.6\Demo\obj\Release\Interop.WMPLib.dll
+C:\Users\dclab\Desktop\V0.6\감동 프로젝트 V0.6\Demo\obj\Release\AxInterop.WMPLib.dll
+C:\Users\dclab\Desktop\V0.6\감동 프로젝트 V0.6\Demo\obj\Release\StressProject.csproj.ResolveComReference.cache
+C:\Users\dclab\Desktop\V0.6\감동 프로젝트 V0.6\Demo\obj\Release\Demo.exe
+C:\Users\dclab\Desktop\V0.6\감동 프로젝트 V0.6\Demo\obj\Release\Demo.pdb
+C:\Users\dclab\Desktop\V0.6\감동 프로젝트 V0.6\Demo\bin\Release\Demo.exe
+C:\Users\dclab\Desktop\V0.6\감동 프로젝트 V0.6\Demo\bin\Release\Demo.pdb
+C:\Users\dclab\Desktop\V0.6\감동 프로젝트 V0.6\Demo\bin\Release\Interop.WMPLib.dll
+C:\Users\dclab\Desktop\V0.6\감동 프로젝트 V0.6\Demo\bin\Release\AxInterop.WMPLib.dll
+C:\Users\dclab\Desktop\V0.6\감동 프로젝트 V0.6\Demo\obj\Release\Demo.ConsentForm.resources
+C:\Users\dclab\Desktop\V0.6\감동 프로젝트 V0.6\Demo\obj\Release\Demo.main.resources
+C:\Users\dclab\Desktop\V0.6\감동 프로젝트 V0.6\Demo\obj\Release\Demo.Personal_Informaion.resources
+C:\Users\dclab\Desktop\V0.6\감동 프로젝트 V0.6\Demo\obj\Release\Demo.Properties.Resources.resources
+C:\Users\dclab\Desktop\V0.6\감동 프로젝트 V0.6\Demo\obj\Release\Demo.Sensor_Value.resources
+C:\Users\dclab\Desktop\V0.6\감동 프로젝트 V0.6\Demo\obj\Release\Demo.Sensor.resources
+C:\Users\dclab\Desktop\V0.6\감동 프로젝트 V0.6\Demo\obj\Release\StressProject.csproj.GenerateResource.Cache
+C:\Users\dclab\Desktop\V0.6\감동 프로젝트 V0.6\Demo\obj\Release\StressProject.csprojResolveAssemblyReference.cache
+C:\Users\DCLAB\Desktop\DCApp\감동 프로젝트 V0.6\Demo\bin\Release\Demo.exe.config
+C:\Users\DCLAB\Desktop\DCApp\감동 프로젝트 V0.6\Demo\obj\Release\Interop.WMPLib.dll
+C:\Users\DCLAB\Desktop\DCApp\감동 프로젝트 V0.6\Demo\obj\Release\AxInterop.WMPLib.dll
+C:\Users\DCLAB\Desktop\DCApp\감동 프로젝트 V0.6\Demo\obj\Release\StressProject.csproj.ResolveComReference.cache
+C:\Users\DCLAB\Desktop\DCApp\감동 프로젝트 V0.6\Demo\obj\Release\Demo.exe
+C:\Users\DCLAB\Desktop\DCApp\감동 프로젝트 V0.6\Demo\obj\Release\Demo.pdb
+C:\Users\DCLAB\Desktop\DCApp\감동 프로젝트 V0.6\Demo\bin\Release\Demo.exe
+C:\Users\DCLAB\Desktop\DCApp\감동 프로젝트 V0.6\Demo\bin\Release\Demo.pdb
+C:\Users\DCLAB\Desktop\DCApp\감동 프로젝트 V0.6\Demo\bin\Release\Interop.WMPLib.dll
+C:\Users\DCLAB\Desktop\DCApp\감동 프로젝트 V0.6\Demo\bin\Release\AxInterop.WMPLib.dll
+C:\Users\DCLAB\Desktop\DCApp\감동 프로젝트 V0.6\Demo\obj\Release\StressProject.csprojResolveAssemblyReference.cache
+C:\Users\DCLAB\Desktop\DCApp\감동 프로젝트 V0.6\Demo\obj\Release\Demo.ConsentForm.resources
+C:\Users\DCLAB\Desktop\DCApp\감동 프로젝트 V0.6\Demo\obj\Release\Demo.main.resources
+C:\Users\DCLAB\Desktop\DCApp\감동 프로젝트 V0.6\Demo\obj\Release\Demo.Personal_Informaion.resources
+C:\Users\DCLAB\Desktop\DCApp\감동 프로젝트 V0.6\Demo\obj\Release\Demo.Properties.Resources.resources
+C:\Users\DCLAB\Desktop\DCApp\감동 프로젝트 V0.6\Demo\obj\Release\Demo.Sensor_Value.resources
+C:\Users\DCLAB\Desktop\DCApp\감동 프로젝트 V0.6\Demo\obj\Release\Demo.Sensor.resources
+C:\Users\DCLAB\Desktop\DCApp\감동 프로젝트 V0.6\Demo\obj\Release\StressProject.csproj.GenerateResource.Cache
+C:\Users\DCLAB\Desktop\DCLAB\DCApp\감동 프로젝트 V0.6\Demo\bin\Release\Demo.exe.config
+C:\Users\DCLAB\Desktop\DCLAB\DCApp\감동 프로젝트 V0.6\Demo\obj\Release\Interop.WMPLib.dll
+C:\Users\DCLAB\Desktop\DCLAB\DCApp\감동 프로젝트 V0.6\Demo\obj\Release\AxInterop.WMPLib.dll
+C:\Users\DCLAB\Desktop\DCLAB\DCApp\감동 프로젝트 V0.6\Demo\obj\Release\StressProject.csproj.ResolveComReference.cache
+C:\Users\DCLAB\Desktop\DCLAB\DCApp\감동 프로젝트 V0.6\Demo\obj\Release\Demo.exe
+C:\Users\DCLAB\Desktop\DCLAB\DCApp\감동 프로젝트 V0.6\Demo\obj\Release\Demo.pdb
+C:\Users\DCLAB\Desktop\DCLAB\DCApp\감동 프로젝트 V0.6\Demo\bin\Release\Demo.exe
+C:\Users\DCLAB\Desktop\DCLAB\DCApp\감동 프로젝트 V0.6\Demo\bin\Release\Demo.pdb
+C:\Users\DCLAB\Desktop\DCLAB\DCApp\감동 프로젝트 V0.6\Demo\bin\Release\Interop.WMPLib.dll
+C:\Users\DCLAB\Desktop\DCLAB\DCApp\감동 프로젝트 V0.6\Demo\bin\Release\AxInterop.WMPLib.dll
+C:\Users\DCLAB\Desktop\DCLAB\DCApp\감동 프로젝트 V0.6\Demo\obj\Release\Demo.ConsentForm.resources
+C:\Users\DCLAB\Desktop\DCLAB\DCApp\감동 프로젝트 V0.6\Demo\obj\Release\Demo.main.resources
+C:\Users\DCLAB\Desktop\DCLAB\DCApp\감동 프로젝트 V0.6\Demo\obj\Release\Demo.Personal_Informaion.resources
+C:\Users\DCLAB\Desktop\DCLAB\DCApp\감동 프로젝트 V0.6\Demo\obj\Release\Demo.Properties.Resources.resources
+C:\Users\DCLAB\Desktop\DCLAB\DCApp\감동 프로젝트 V0.6\Demo\obj\Release\Demo.Sensor_Value.resources
+C:\Users\DCLAB\Desktop\DCLAB\DCApp\감동 프로젝트 V0.6\Demo\obj\Release\Demo.Sensor.resources
+C:\Users\DCLAB\Desktop\DCLAB\DCApp\감동 프로젝트 V0.6\Demo\obj\Release\StressProject.csproj.GenerateResource.Cache
+C:\Users\DCLAB\Desktop\DCLAB\DCApp\감동 프로젝트 V0.6\Demo\obj\Release\StressProject.csprojResolveAssemblyReference.cache
+C:\Users\DCLAB\Desktop\DCApp - 복사본\감동 프로젝트 V0.6\Demo\bin\Release\Demo.exe.config
+C:\Users\DCLAB\Desktop\DCApp - 복사본\감동 프로젝트 V0.6\Demo\obj\Release\Interop.WMPLib.dll
+C:\Users\DCLAB\Desktop\DCApp - 복사본\감동 프로젝트 V0.6\Demo\obj\Release\AxInterop.WMPLib.dll
+C:\Users\DCLAB\Desktop\DCApp - 복사본\감동 프로젝트 V0.6\Demo\obj\Release\StressProject.csproj.ResolveComReference.cache
+C:\Users\DCLAB\Desktop\DCApp - 복사본\감동 프로젝트 V0.6\Demo\obj\Release\Demo.exe
+C:\Users\DCLAB\Desktop\DCApp - 복사본\감동 프로젝트 V0.6\Demo\obj\Release\Demo.pdb
+C:\Users\DCLAB\Desktop\DCApp - 복사본\감동 프로젝트 V0.6\Demo\bin\Release\Demo.exe
+C:\Users\DCLAB\Desktop\DCApp - 복사본\감동 프로젝트 V0.6\Demo\bin\Release\Demo.pdb
+C:\Users\DCLAB\Desktop\DCApp - 복사본\감동 프로젝트 V0.6\Demo\bin\Release\Interop.WMPLib.dll
+C:\Users\DCLAB\Desktop\DCApp - 복사본\감동 프로젝트 V0.6\Demo\bin\Release\AxInterop.WMPLib.dll
+C:\Users\DCLAB\Desktop\DCApp - 복사본\감동 프로젝트 V0.6\Demo\obj\Release\StressProject.csprojResolveAssemblyReference.cache
+C:\Users\DCLAB\Desktop\DCApp - 복사본\감동 프로젝트 V0.6\Demo\obj\Release\Demo.ConsentForm.resources
+C:\Users\DCLAB\Desktop\DCApp - 복사본\감동 프로젝트 V0.6\Demo\obj\Release\Demo.main.resources
+C:\Users\DCLAB\Desktop\DCApp - 복사본\감동 프로젝트 V0.6\Demo\obj\Release\Demo.Personal_Informaion.resources
+C:\Users\DCLAB\Desktop\DCApp - 복사본\감동 프로젝트 V0.6\Demo\obj\Release\Demo.Properties.Resources.resources
+C:\Users\DCLAB\Desktop\DCApp - 복사본\감동 프로젝트 V0.6\Demo\obj\Release\Demo.Sensor_Value.resources
+C:\Users\DCLAB\Desktop\DCApp - 복사본\감동 프로젝트 V0.6\Demo\obj\Release\Demo.Sensor.resources
+C:\Users\DCLAB\Desktop\DCApp - 복사본\감동 프로젝트 V0.6\Demo\obj\Release\StressProject.csproj.GenerateResource.Cache
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.0\Demo\bin\Release\Demo.exe.config
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.0\Demo\obj\Release\Interop.WMPLib.dll
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.0\Demo\obj\Release\AxInterop.WMPLib.dll
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.0\Demo\obj\Release\StressProject.csproj.ResolveComReference.cache
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.0\Demo\obj\Release\Demo.exe
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.0\Demo\obj\Release\Demo.pdb
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.0\Demo\bin\Release\Demo.exe
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.0\Demo\bin\Release\Demo.pdb
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.0\Demo\bin\Release\Interop.WMPLib.dll
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.0\Demo\bin\Release\AxInterop.WMPLib.dll
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.0\Demo\obj\Release\StressProject.csprojResolveAssemblyReference.cache
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.0\Demo\obj\Release\Demo.ConsentForm.resources
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.0\Demo\obj\Release\Demo.main.resources
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.0\Demo\obj\Release\Demo.Personal_Informaion.resources
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.0\Demo\obj\Release\Demo.Properties.Resources.resources
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.0\Demo\obj\Release\Demo.Sensor_Value.resources
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.0\Demo\obj\Release\Demo.Sensor.resources
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.0\Demo\obj\Release\StressProject.csproj.GenerateResource.Cache
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.1\Demo\bin\Release\Demo.exe.config
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.1\Demo\obj\Release\Interop.WMPLib.dll
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.1\Demo\obj\Release\AxInterop.WMPLib.dll
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.1\Demo\obj\Release\StressProject.csproj.ResolveComReference.cache
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.1\Demo\obj\Release\Demo.exe
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.1\Demo\obj\Release\Demo.pdb
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.1\Demo\bin\Release\Demo.exe
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.1\Demo\bin\Release\Demo.pdb
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.1\Demo\bin\Release\Interop.WMPLib.dll
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.1\Demo\bin\Release\AxInterop.WMPLib.dll
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.1\Demo\obj\Release\StressProject.csprojResolveAssemblyReference.cache
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.1\Demo\obj\Release\Demo.ConsentForm.resources
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.1\Demo\obj\Release\Demo.main.resources
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.1\Demo\obj\Release\Demo.Personal_Informaion.resources
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.1\Demo\obj\Release\Demo.Properties.Resources.resources
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.1\Demo\obj\Release\Demo.Sensor_Value.resources
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.1\Demo\obj\Release\Demo.Sensor.resources
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.1\Demo\obj\Release\StressProject.csproj.GenerateResource.Cache
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.2\Demo\bin\Release\Demo.exe.config
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.2\Demo\obj\Release\Interop.WMPLib.dll
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.2\Demo\obj\Release\AxInterop.WMPLib.dll
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.2\Demo\obj\Release\StressProject.csproj.ResolveComReference.cache
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.2\Demo\obj\Release\Demo.exe
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.2\Demo\obj\Release\Demo.pdb
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.2\Demo\bin\Release\Demo.exe
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.2\Demo\bin\Release\Demo.pdb
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.2\Demo\bin\Release\Interop.WMPLib.dll
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.2\Demo\bin\Release\AxInterop.WMPLib.dll
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.2\Demo\obj\Release\StressProject.csprojResolveAssemblyReference.cache
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.2\Demo\obj\Release\Demo.ConsentForm.resources
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.2\Demo\obj\Release\Demo.main.resources
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.2\Demo\obj\Release\Demo.Personal_Informaion.resources
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.2\Demo\obj\Release\Demo.Properties.Resources.resources
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.2\Demo\obj\Release\Demo.Sensor_Value.resources
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.2\Demo\obj\Release\Demo.Sensor.resources
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.2\Demo\obj\Release\StressProject.csproj.GenerateResource.Cache
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.3\Demo\bin\Release\Demo.exe.config
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.3\Demo\obj\Release\Interop.WMPLib.dll
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.3\Demo\obj\Release\AxInterop.WMPLib.dll
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.3\Demo\obj\Release\StressProject.csproj.ResolveComReference.cache
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.3\Demo\obj\Release\Demo.exe
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.3\Demo\obj\Release\Demo.pdb
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.3\Demo\bin\Release\Demo.exe
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.3\Demo\bin\Release\Demo.pdb
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.3\Demo\bin\Release\Interop.WMPLib.dll
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.3\Demo\bin\Release\AxInterop.WMPLib.dll
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.3\Demo\obj\Release\StressProject.csprojResolveAssemblyReference.cache
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.3\Demo\obj\Release\Demo.ConsentForm.resources
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.3\Demo\obj\Release\Demo.main.resources
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.3\Demo\obj\Release\Demo.Personal_Informaion.resources
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.3\Demo\obj\Release\Demo.Properties.Resources.resources
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.3\Demo\obj\Release\Demo.Sensor_Value.resources
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.3\Demo\obj\Release\Demo.Sensor.resources
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.3\Demo\obj\Release\StressProject.csproj.GenerateResource.Cache
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.4\Demo\bin\Release\Demo.exe.config
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.4\Demo\obj\Release\Interop.WMPLib.dll
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.4\Demo\obj\Release\AxInterop.WMPLib.dll
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.4\Demo\obj\Release\StressProject.csproj.ResolveComReference.cache
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.4\Demo\obj\Release\Demo.exe
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.4\Demo\obj\Release\Demo.pdb
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.4\Demo\bin\Release\Demo.exe
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.4\Demo\bin\Release\Demo.pdb
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.4\Demo\bin\Release\Interop.WMPLib.dll
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.4\Demo\bin\Release\AxInterop.WMPLib.dll
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.4\Demo\obj\Release\StressProject.csprojResolveAssemblyReference.cache
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.4\Demo\obj\Release\Demo.ConsentForm.resources
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.4\Demo\obj\Release\Demo.main.resources
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.4\Demo\obj\Release\Demo.Personal_Informaion.resources
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.4\Demo\obj\Release\Demo.Properties.Resources.resources
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.4\Demo\obj\Release\Demo.Sensor_Value.resources
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.4\Demo\obj\Release\Demo.Sensor.resources
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.4\Demo\obj\Release\StressProject.csproj.GenerateResource.Cache
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.5\Demo\bin\Release\Demo.exe.config
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.5\Demo\obj\Release\Interop.WMPLib.dll
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.5\Demo\obj\Release\AxInterop.WMPLib.dll
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.5\Demo\obj\Release\StressProject.csproj.ResolveComReference.cache
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.5\Demo\obj\Release\Demo.exe
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.5\Demo\obj\Release\Demo.pdb
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.5\Demo\bin\Release\Demo.exe
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.5\Demo\bin\Release\Demo.pdb
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.5\Demo\bin\Release\Interop.WMPLib.dll
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.5\Demo\bin\Release\AxInterop.WMPLib.dll
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.5\Demo\obj\Release\StressProject.csprojResolveAssemblyReference.cache
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.5\Demo\obj\Release\Demo.ConsentForm.resources
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.5\Demo\obj\Release\Demo.main.resources
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.5\Demo\obj\Release\Demo.Personal_Informaion.resources
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.5\Demo\obj\Release\Demo.Properties.Resources.resources
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.5\Demo\obj\Release\Demo.Sensor_Value.resources
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.5\Demo\obj\Release\Demo.Sensor.resources
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.5\Demo\obj\Release\StressProject.csproj.GenerateResource.Cache
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.6\Demo\bin\Release\Demo.exe.config
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.6\Demo\obj\Release\Interop.WMPLib.dll
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.6\Demo\obj\Release\AxInterop.WMPLib.dll
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.6\Demo\obj\Release\StressProject.csproj.ResolveComReference.cache
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.6\Demo\obj\Release\Demo.exe
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.6\Demo\obj\Release\Demo.pdb
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.6\Demo\bin\Release\Demo.exe
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.6\Demo\bin\Release\Demo.pdb
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.6\Demo\bin\Release\Interop.WMPLib.dll
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.6\Demo\bin\Release\AxInterop.WMPLib.dll
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.6\Demo\obj\Release\StressProject.csprojResolveAssemblyReference.cache
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.6\Demo\obj\Release\Demo.ConsentForm.resources
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.6\Demo\obj\Release\Demo.main.resources
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.6\Demo\obj\Release\Demo.Personal_Informaion.resources
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.6\Demo\obj\Release\Demo.Properties.Resources.resources
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.6\Demo\obj\Release\Demo.Sensor_Value.resources
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.6\Demo\obj\Release\Demo.Sensor.resources
+C:\Users\juneil\Desktop\2017년 2학기\Stress Project\Lavender\Lavender V1.6\Demo\obj\Release\StressProject.csproj.GenerateResource.Cache
+C:\Users\ihchoi\Documents\GitHub\DCLab\Lavender V1.7\Demo\bin\Release\Demo.exe.config
+C:\Users\ihchoi\Documents\GitHub\DCLab\Lavender V1.7\Demo\obj\Release\Interop.WMPLib.dll
+C:\Users\ihchoi\Documents\GitHub\DCLab\Lavender V1.7\Demo\obj\Release\AxInterop.WMPLib.dll
+C:\Users\ihchoi\Documents\GitHub\DCLab\Lavender V1.7\Demo\obj\Release\StressProject.csproj.ResolveComReference.cache
+C:\Users\ihchoi\Documents\GitHub\DCLab\Lavender V1.7\Demo\obj\Release\Demo.exe
+C:\Users\ihchoi\Documents\GitHub\DCLab\Lavender V1.7\Demo\obj\Release\Demo.pdb

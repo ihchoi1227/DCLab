@@ -1,0 +1,185 @@
+c:\users\juneil\documents\visual studio 2013\Projects\Demo\Demo\bin\Debug\Demo.exe.config
+c:\users\juneil\documents\visual studio 2013\Projects\Demo\Demo\bin\Debug\Demo.exe
+c:\users\juneil\documents\visual studio 2013\Projects\Demo\Demo\bin\Debug\Demo.pdb
+c:\users\juneil\documents\visual studio 2013\Projects\Demo\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+c:\users\juneil\documents\visual studio 2013\Projects\Demo\Demo\obj\Debug\Demo.Properties.Resources.resources
+c:\users\juneil\documents\visual studio 2013\Projects\Demo\Demo\obj\Debug\Demo.csproj.GenerateResource.Cache
+c:\users\juneil\documents\visual studio 2013\Projects\Demo\Demo\obj\Debug\Demo.exe
+c:\users\juneil\documents\visual studio 2013\Projects\Demo\Demo\obj\Debug\Demo.pdb
+c:\users\juneil\documents\visual studio 2013\Projects\Demo\Demo\obj\Debug\Demo.main.resources
+c:\users\juneil\documents\visual studio 2013\Projects\Demo\Demo\obj\Debug\Demo.Personal_Informaion.resources
+c:\users\juneil\documents\visual studio 2013\Projects\Demo\Demo\obj\Debug\Demo.Sensor_Value.resources
+C:\Users\skychoy\Documents\Demo\Demo\bin\Debug\Demo.exe.config
+C:\Users\skychoy\Documents\Demo\Demo\obj\Debug\Demo.exe
+C:\Users\skychoy\Documents\Demo\Demo\obj\Debug\Demo.pdb
+C:\Users\skychoy\Documents\Demo\Demo\bin\Debug\Demo.exe
+C:\Users\skychoy\Documents\Demo\Demo\bin\Debug\Demo.pdb
+C:\Users\skychoy\Documents\Demo\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\Users\skychoy\Documents\Demo\Demo\obj\Debug\Demo.main.resources
+C:\Users\skychoy\Documents\Demo\Demo\obj\Debug\Demo.Personal_Informaion.resources
+C:\Users\skychoy\Documents\Demo\Demo\obj\Debug\Demo.Properties.Resources.resources
+C:\Users\skychoy\Documents\Demo\Demo\obj\Debug\Demo.Sensor_Value.resources
+C:\Users\skychoy\Documents\Demo\Demo\obj\Debug\Demo.csproj.GenerateResource.Cache
+C:\Users\skychoy\Documents\Demo\Demo\bin\Debug\Interop.WMPLib.dll
+C:\Users\skychoy\Documents\Demo\Demo\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\skychoy\Documents\Demo\Demo\obj\Debug\Interop.WMPLib.dll
+C:\Users\skychoy\Documents\Demo\Demo\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\skychoy\Documents\Demo\Demo\obj\Debug\Demo.csproj.ResolveComReference.cache
+C:\Users\DCLAB\Desktop\Demo\Demo\bin\Debug\Demo.exe.config
+C:\Users\DCLAB\Desktop\Demo\Demo\obj\Debug\Interop.WMPLib.dll
+C:\Users\DCLAB\Desktop\Demo\Demo\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\DCLAB\Desktop\Demo\Demo\obj\Debug\Demo.csproj.ResolveComReference.cache
+C:\Users\DCLAB\Desktop\Demo\Demo\obj\Debug\Demo.exe
+C:\Users\DCLAB\Desktop\Demo\Demo\obj\Debug\Demo.pdb
+C:\Users\DCLAB\Desktop\Demo\Demo\bin\Debug\Demo.exe
+C:\Users\DCLAB\Desktop\Demo\Demo\bin\Debug\Demo.pdb
+C:\Users\DCLAB\Desktop\Demo\Demo\bin\Debug\Interop.WMPLib.dll
+C:\Users\DCLAB\Desktop\Demo\Demo\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\DCLAB\Desktop\Demo\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\Users\DCLAB\Desktop\Demo\Demo\obj\Debug\Demo.main.resources
+C:\Users\DCLAB\Desktop\Demo\Demo\obj\Debug\Demo.Personal_Informaion.resources
+C:\Users\DCLAB\Desktop\Demo\Demo\obj\Debug\Demo.Properties.Resources.resources
+C:\Users\DCLAB\Desktop\Demo\Demo\obj\Debug\Demo.Sensor_Value.resources
+C:\Users\DCLAB\Desktop\Demo\Demo\obj\Debug\Demo.csproj.GenerateResource.Cache
+C:\Users\juneil\Desktop\Demo\Demo\bin\Debug\Demo.exe.config
+C:\Users\juneil\Desktop\Demo\Demo\obj\Debug\Interop.WMPLib.dll
+C:\Users\juneil\Desktop\Demo\Demo\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\juneil\Desktop\Demo\Demo\obj\Debug\Demo.csproj.ResolveComReference.cache
+C:\Users\juneil\Desktop\Demo\Demo\obj\Debug\Demo.exe
+C:\Users\juneil\Desktop\Demo\Demo\obj\Debug\Demo.pdb
+C:\Users\juneil\Desktop\Demo\Demo\bin\Debug\Demo.exe
+C:\Users\juneil\Desktop\Demo\Demo\bin\Debug\Demo.pdb
+C:\Users\juneil\Desktop\Demo\Demo\bin\Debug\Interop.WMPLib.dll
+C:\Users\juneil\Desktop\Demo\Demo\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\juneil\Desktop\Demo\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\Users\juneil\Desktop\Demo\Demo\obj\Debug\Demo.main.resources
+C:\Users\juneil\Desktop\Demo\Demo\obj\Debug\Demo.Personal_Informaion.resources
+C:\Users\juneil\Desktop\Demo\Demo\obj\Debug\Demo.Properties.Resources.resources
+C:\Users\juneil\Desktop\Demo\Demo\obj\Debug\Demo.Sensor_Value.resources
+C:\Users\juneil\Desktop\Demo\Demo\obj\Debug\Demo.csproj.GenerateResource.Cache
+C:\Users\DCLAB\Desktop\Demo\Demo\obj\Debug\Demo.ConsentForm.resources
+C:\Users\DCLAB\Desktop\Demo - 복사본\Demo\bin\Debug\Demo.exe.config
+C:\Users\DCLAB\Desktop\Demo - 복사본\Demo\obj\Debug\Interop.WMPLib.dll
+C:\Users\DCLAB\Desktop\Demo - 복사본\Demo\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\DCLAB\Desktop\Demo - 복사본\Demo\obj\Debug\Demo.csproj.ResolveComReference.cache
+C:\Users\DCLAB\Desktop\Demo - 복사본\Demo\obj\Debug\Demo.exe
+C:\Users\DCLAB\Desktop\Demo - 복사본\Demo\obj\Debug\Demo.pdb
+C:\Users\DCLAB\Desktop\Demo - 복사본\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\Users\DCLAB\Desktop\Demo - 복사본\Demo\obj\Debug\Demo.ConsentForm.resources
+C:\Users\DCLAB\Desktop\Demo - 복사본\Demo\obj\Debug\Demo.main.resources
+C:\Users\DCLAB\Desktop\Demo - 복사본\Demo\obj\Debug\Demo.Personal_Informaion.resources
+C:\Users\DCLAB\Desktop\Demo - 복사본\Demo\obj\Debug\Demo.Properties.Resources.resources
+C:\Users\DCLAB\Desktop\Demo - 복사본\Demo\obj\Debug\Demo.Sensor_Value.resources
+C:\Users\DCLAB\Desktop\Demo - 복사본\Demo\obj\Debug\Demo.csproj.GenerateResource.Cache
+C:\Users\DCLAB\Desktop\Demo - 복사본\Demo\bin\Debug\Demo.exe
+C:\Users\DCLAB\Desktop\Demo - 복사본\Demo\bin\Debug\Demo.pdb
+C:\Users\DCLAB\Desktop\Demo - 복사본\Demo\bin\Debug\Interop.WMPLib.dll
+C:\Users\DCLAB\Desktop\Demo - 복사본\Demo\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\DCLAB\Desktop\meeting\Demo\bin\Debug\Demo.exe.config
+C:\Users\DCLAB\Desktop\meeting\Demo\obj\Debug\Interop.WMPLib.dll
+C:\Users\DCLAB\Desktop\meeting\Demo\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\DCLAB\Desktop\meeting\Demo\obj\Debug\Demo.csproj.ResolveComReference.cache
+C:\Users\DCLAB\Desktop\meeting\Demo\obj\Debug\Demo.exe
+C:\Users\DCLAB\Desktop\meeting\Demo\obj\Debug\Demo.pdb
+C:\Users\DCLAB\Desktop\meeting\Demo\bin\Debug\Demo.exe
+C:\Users\DCLAB\Desktop\meeting\Demo\bin\Debug\Demo.pdb
+C:\Users\DCLAB\Desktop\meeting\Demo\bin\Debug\Interop.WMPLib.dll
+C:\Users\DCLAB\Desktop\meeting\Demo\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\DCLAB\Desktop\meeting\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\Users\DCLAB\Desktop\meeting\Demo\obj\Debug\Demo.ConsentForm.resources
+C:\Users\DCLAB\Desktop\meeting\Demo\obj\Debug\Demo.main.resources
+C:\Users\DCLAB\Desktop\meeting\Demo\obj\Debug\Demo.Personal_Informaion.resources
+C:\Users\DCLAB\Desktop\meeting\Demo\obj\Debug\Demo.Properties.Resources.resources
+C:\Users\DCLAB\Desktop\meeting\Demo\obj\Debug\Demo.Sensor_Value.resources
+C:\Users\DCLAB\Desktop\meeting\Demo\obj\Debug\Demo.csproj.GenerateResource.Cache
+C:\Users\DCLAB\Desktop\meeting\Demo\obj\Debug\Demo.Sensor.resources
+C:\Users\juneil\Desktop\meeting\Demo\bin\Debug\Demo.exe.config
+C:\Users\juneil\Desktop\meeting\Demo\obj\Debug\Interop.WMPLib.dll
+C:\Users\juneil\Desktop\meeting\Demo\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\juneil\Desktop\meeting\Demo\obj\Debug\Demo.csproj.ResolveComReference.cache
+C:\Users\juneil\Desktop\meeting\Demo\obj\Debug\Demo.exe
+C:\Users\juneil\Desktop\meeting\Demo\obj\Debug\Demo.pdb
+C:\Users\juneil\Desktop\meeting\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\Users\juneil\Desktop\meeting\Demo\obj\Debug\Demo.ConsentForm.resources
+C:\Users\juneil\Desktop\meeting\Demo\obj\Debug\Demo.main.resources
+C:\Users\juneil\Desktop\meeting\Demo\obj\Debug\Demo.Personal_Informaion.resources
+C:\Users\juneil\Desktop\meeting\Demo\obj\Debug\Demo.Properties.Resources.resources
+C:\Users\juneil\Desktop\meeting\Demo\obj\Debug\Demo.Sensor_Value.resources
+C:\Users\juneil\Desktop\meeting\Demo\obj\Debug\Demo.Sensor.resources
+C:\Users\juneil\Desktop\meeting\Demo\obj\Debug\Demo.csproj.GenerateResource.Cache
+C:\Users\juneil\Desktop\meeting\Demo\bin\Debug\Demo.exe
+C:\Users\juneil\Desktop\meeting\Demo\bin\Debug\Demo.pdb
+C:\Users\juneil\Desktop\meeting\Demo\bin\Debug\Interop.WMPLib.dll
+C:\Users\juneil\Desktop\meeting\Demo\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\DCLAB\Desktop\meeting2\Demo\bin\Debug\Demo.exe.config
+C:\Users\DCLAB\Desktop\meeting2\Demo\obj\Debug\Interop.WMPLib.dll
+C:\Users\DCLAB\Desktop\meeting2\Demo\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\DCLAB\Desktop\meeting2\Demo\obj\Debug\Demo.csproj.ResolveComReference.cache
+C:\Users\DCLAB\Desktop\meeting2\Demo\obj\Debug\Demo.exe
+C:\Users\DCLAB\Desktop\meeting2\Demo\obj\Debug\Demo.pdb
+C:\Users\DCLAB\Desktop\meeting2\Demo\bin\Debug\Demo.exe
+C:\Users\DCLAB\Desktop\meeting2\Demo\bin\Debug\Demo.pdb
+C:\Users\DCLAB\Desktop\meeting2\Demo\bin\Debug\Interop.WMPLib.dll
+C:\Users\DCLAB\Desktop\meeting2\Demo\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\DCLAB\Desktop\meeting2\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\Users\DCLAB\Desktop\meeting2\Demo\obj\Debug\Demo.ConsentForm.resources
+C:\Users\DCLAB\Desktop\meeting2\Demo\obj\Debug\Demo.main.resources
+C:\Users\DCLAB\Desktop\meeting2\Demo\obj\Debug\Demo.Personal_Informaion.resources
+C:\Users\DCLAB\Desktop\meeting2\Demo\obj\Debug\Demo.Properties.Resources.resources
+C:\Users\DCLAB\Desktop\meeting2\Demo\obj\Debug\Demo.Sensor_Value.resources
+C:\Users\DCLAB\Desktop\meeting2\Demo\obj\Debug\Demo.Sensor.resources
+C:\Users\DCLAB\Desktop\meeting2\Demo\obj\Debug\Demo.csproj.GenerateResource.Cache
+C:\Users\juneil\Desktop\meeting2\Demo\bin\Debug\Demo.exe.config
+C:\Users\juneil\Desktop\meeting2\Demo\obj\Debug\Interop.WMPLib.dll
+C:\Users\juneil\Desktop\meeting2\Demo\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\juneil\Desktop\meeting2\Demo\obj\Debug\Demo.csproj.ResolveComReference.cache
+C:\Users\juneil\Desktop\meeting2\Demo\obj\Debug\Demo.exe
+C:\Users\juneil\Desktop\meeting2\Demo\obj\Debug\Demo.pdb
+C:\Users\juneil\Desktop\meeting2\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\Users\juneil\Desktop\meeting2\Demo\obj\Debug\Demo.ConsentForm.resources
+C:\Users\juneil\Desktop\meeting2\Demo\obj\Debug\Demo.main.resources
+C:\Users\juneil\Desktop\meeting2\Demo\obj\Debug\Demo.Personal_Informaion.resources
+C:\Users\juneil\Desktop\meeting2\Demo\obj\Debug\Demo.Properties.Resources.resources
+C:\Users\juneil\Desktop\meeting2\Demo\obj\Debug\Demo.Sensor_Value.resources
+C:\Users\juneil\Desktop\meeting2\Demo\obj\Debug\Demo.Sensor.resources
+C:\Users\juneil\Desktop\meeting2\Demo\obj\Debug\Demo.csproj.GenerateResource.Cache
+C:\Users\juneil\Desktop\meeting2\Demo\bin\Debug\Demo.exe
+C:\Users\juneil\Desktop\meeting2\Demo\bin\Debug\Demo.pdb
+C:\Users\juneil\Desktop\meeting2\Demo\bin\Debug\Interop.WMPLib.dll
+C:\Users\juneil\Desktop\meeting2\Demo\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\DCLAB\Desktop\meeting2 (2)\Demo\bin\Debug\Demo.exe.config
+C:\Users\DCLAB\Desktop\meeting2 (2)\Demo\obj\Debug\Interop.WMPLib.dll
+C:\Users\DCLAB\Desktop\meeting2 (2)\Demo\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\DCLAB\Desktop\meeting2 (2)\Demo\obj\Debug\Demo.csproj.ResolveComReference.cache
+C:\Users\DCLAB\Desktop\meeting2 (2)\Demo\obj\Debug\Demo.exe
+C:\Users\DCLAB\Desktop\meeting2 (2)\Demo\obj\Debug\Demo.pdb
+C:\Users\DCLAB\Desktop\meeting2 (2)\Demo\bin\Debug\Demo.exe
+C:\Users\DCLAB\Desktop\meeting2 (2)\Demo\bin\Debug\Demo.pdb
+C:\Users\DCLAB\Desktop\meeting2 (2)\Demo\bin\Debug\Interop.WMPLib.dll
+C:\Users\DCLAB\Desktop\meeting2 (2)\Demo\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\DCLAB\Desktop\meeting2 (2)\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\Users\DCLAB\Desktop\meeting2 (2)\Demo\obj\Debug\Demo.ConsentForm.resources
+C:\Users\DCLAB\Desktop\meeting2 (2)\Demo\obj\Debug\Demo.main.resources
+C:\Users\DCLAB\Desktop\meeting2 (2)\Demo\obj\Debug\Demo.Personal_Informaion.resources
+C:\Users\DCLAB\Desktop\meeting2 (2)\Demo\obj\Debug\Demo.Properties.Resources.resources
+C:\Users\DCLAB\Desktop\meeting2 (2)\Demo\obj\Debug\Demo.Sensor_Value.resources
+C:\Users\DCLAB\Desktop\meeting2 (2)\Demo\obj\Debug\Demo.Sensor.resources
+C:\Users\DCLAB\Desktop\meeting2 (2)\Demo\obj\Debug\Demo.csproj.GenerateResource.Cache
+C:\Users\DCLAB\Desktop\감동 프로젝트 V0.1\Demo\bin\Debug\Demo.exe.config
+C:\Users\DCLAB\Desktop\감동 프로젝트 V0.1\Demo\obj\Debug\Interop.WMPLib.dll
+C:\Users\DCLAB\Desktop\감동 프로젝트 V0.1\Demo\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\DCLAB\Desktop\감동 프로젝트 V0.1\Demo\obj\Debug\Demo.csproj.ResolveComReference.cache
+C:\Users\DCLAB\Desktop\감동 프로젝트 V0.1\Demo\obj\Debug\Demo.exe
+C:\Users\DCLAB\Desktop\감동 프로젝트 V0.1\Demo\obj\Debug\Demo.pdb
+C:\Users\DCLAB\Desktop\감동 프로젝트 V0.1\Demo\bin\Debug\Demo.exe
+C:\Users\DCLAB\Desktop\감동 프로젝트 V0.1\Demo\bin\Debug\Demo.pdb
+C:\Users\DCLAB\Desktop\감동 프로젝트 V0.1\Demo\bin\Debug\Interop.WMPLib.dll
+C:\Users\DCLAB\Desktop\감동 프로젝트 V0.1\Demo\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\DCLAB\Desktop\감동 프로젝트 V0.1\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\Users\DCLAB\Desktop\감동 프로젝트 V0.1\Demo\obj\Debug\Demo.ConsentForm.resources
+C:\Users\DCLAB\Desktop\감동 프로젝트 V0.1\Demo\obj\Debug\Demo.main.resources
+C:\Users\DCLAB\Desktop\감동 프로젝트 V0.1\Demo\obj\Debug\Demo.Personal_Informaion.resources
+C:\Users\DCLAB\Desktop\감동 프로젝트 V0.1\Demo\obj\Debug\Demo.Properties.Resources.resources
+C:\Users\DCLAB\Desktop\감동 프로젝트 V0.1\Demo\obj\Debug\Demo.Sensor_Value.resources
+C:\Users\DCLAB\Desktop\감동 프로젝트 V0.1\Demo\obj\Debug\Demo.Sensor.resources
+C:\Users\DCLAB\Desktop\감동 프로젝트 V0.1\Demo\obj\Debug\Demo.csproj.GenerateResource.Cache
